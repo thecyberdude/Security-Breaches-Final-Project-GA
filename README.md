@@ -19,7 +19,6 @@ Acknowlegdement to Charles E. Jimenez-Gomez for collecting the data and presenti
 ## Cool Links
 
 * [Final Report Notebook](report.ipynb)
-* [EDA Notebook](eda.ipynb)
 * [CyberThreat](https://cybermap.kaspersky.com/) - Real Time Map
 * [SANS NewsBites](https://www.sans.org/newsletters/newsbites) - News Articles
 * [All Data Breaches in 2019 & 2020](https://selfkey.org/data-breaches-in-2019/) - Data Breach Blog
